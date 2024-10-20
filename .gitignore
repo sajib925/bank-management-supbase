@@ -1,0 +1,5 @@
+.venv
+Others/*
+bank_management_project
+db.sqlite3
+__pycache__/
